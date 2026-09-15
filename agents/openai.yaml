@@ -1,0 +1,7 @@
+interface:
+  display_name: "Инфо-минимализм: оценка контента"
+  short_description: "Проверка контента на лишние затраты внимания"
+  default_prompt: "Используй $info-minimalism-evaluation-skill-ru, чтобы оценить этот контент и предложить более короткий вариант без потери смысла."
+
+policy:
+  allow_implicit_invocation: true

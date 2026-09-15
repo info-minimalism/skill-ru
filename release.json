@@ -1,0 +1,11 @@
+{
+  "package_name": "info-minimalism-evaluation-skill-ru",
+  "standard_version": "1.0.0",
+  "status": "stable",
+  "standard_file": "references/standard-v1.0.0.md",
+  "repository": "https://github.com/info-minimalism/skill-ru",
+  "locale": "ru",
+  "localization_version": "1.0.0-ru.1",
+  "upstream_repository": "https://github.com/info-minimalism/skill",
+  "upstream_commit": "6e939f5d72811ef7179f0e07c96b78a33b08918b"
+}
